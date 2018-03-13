@@ -14,6 +14,8 @@ parcellation_name='500.aparc_dilated_cortical2mm.nii.gz';
 %1-Mirror samples and consider only left hemisphere
 %2-Mirror samples between hemispheres (left samples are fliped and
 %considered in the right hemisphere and viceversa)
+
+%Add resource
 hemiMirror=2;1; 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
