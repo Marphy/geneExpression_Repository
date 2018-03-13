@@ -2,7 +2,7 @@
 %Rafael Romero Garcia
 %rr480@cam.ac.uk
 %3rd July 2017
-%University of Cambridge       
+%University of Cambridge
 
 %Download the data and compute the valid probes
 function step1_download()
